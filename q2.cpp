@@ -1,4 +1,5 @@
-//write a program to check whether a character entered by the user is a vovel or a consonant.//
+//write a program to check whether a character entered by the user is a vowel or a consonant.//
+
 #include <iostream>
 using namespace std;
 int main() {

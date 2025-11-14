@@ -2,4 +2,4 @@
 ---------if-else-and-else-if------------
 .
 .
-Practice Questions (total 15)
+- Practice Questions (total 15)
